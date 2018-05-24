@@ -16,6 +16,6 @@ homeman后台程序
 ## rate_subject
     id, name, maxscore
 
-## event:事件管理
+## schedule:日程管理
 
 ## finance:财务管理
