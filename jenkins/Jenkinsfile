@@ -10,7 +10,7 @@ pipeline {
                 echo 'Building..'
                 sh 'java -version'
                 sh 'mvn --version'
-                sh 'mvn -B -DskipTests clean package'
+                sh 'mvn compile'
             }
         }
         stage('Test') {
