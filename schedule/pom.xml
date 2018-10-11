@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>xyz.aixinxin.homeman</groupId>
-	<artifactId>account</artifactId>
+	<artifactId>schedule</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
